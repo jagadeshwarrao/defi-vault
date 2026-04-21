@@ -162,4 +162,3 @@ VaultPauseToggled { paused }
 
 **PJ** — Smart Contract Engineer  
 EVM (Solidity, Hardhat, Foundry) · Solana (Anchor, Rust) · DeFi Protocol Design  
-[GitHub](https://github.com/YOUR_USERNAME) · [Portfolio](https://YOUR_PORTFOLIO_URL)
